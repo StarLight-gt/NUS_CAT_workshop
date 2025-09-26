@@ -1,4 +1,4 @@
-<img width="873" height="257" alt="image" src="https://github.com/user-attachments/assets/4fe1ed7f-3c17-451b-b611-d48a8378c8cb" /># NUS_CAT_workshop
+# NUS_CAT_workshop
 
 Download files for High, medium, Low density cases for Microcliamte Digital Platform tutorial
 
